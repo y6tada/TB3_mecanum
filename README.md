@@ -4,7 +4,7 @@
 
 # Part List
 |Part Name|Part Number/URL Purchase|QTY per Assy|
-|:---:|:---|:---|
+|:---|:---|:---|
 |1_01_FRAME_BASE|-|1|
 |1_02_FRAME_COVER|-|1|
 |1_03_SIDE_WHEEL_BASE|-|10|
