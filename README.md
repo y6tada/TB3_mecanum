@@ -5,7 +5,7 @@
 
 # Part List
 |#No.|Part Name|Part Number/URL Purchase|QTY per Assy|
-||:---|:---|:---|
+|:---|:---|:---|:---|
 |0|0_01_TB3_MECANUM|-|-|
 |1|1_01_FRAME_BASE|-|1|
 |2|1_02_FRAME_COVER|-|1|
