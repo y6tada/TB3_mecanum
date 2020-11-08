@@ -6,10 +6,10 @@
 # Part List
 |#No.|Part Name|Part Number/URL Purchase|QTY per Assy|
 |:---|:---|:---|:---|
-|0|0_01_TB3_MECANUM|-|-|
+|0|0_01_TB3_MECANUM_*H|LH-->Left handed, RH-->Right handed|Main assy|
 |1|0_02_SIDE_WHEEL|-|10|
-|2|1_01_FRAME_BASE|-|1|
-|3|1_02_FRAME_COVER|-|1|
+|2|1_01_FRAME_BASE_*H|-|1|
+|3|1_02_FRAME_COVER_*H|-|1|
 |4|1_03_SIDE_WHEEL_BASE|-|10|
 |5|2_01_CAP_BOLT_M3_8|[FC-0308E](https://wilco.jp/products/F/FC-E.html#page4) - Cap screw M3-8, SCM435 Trivalent Chromate|3|
 |6|2_02_SIDE_WHEEL_BEARING|[CB-2017PC](https://www.hirosugi-net.co.jp/shop/g/g40152/) - Brass spacer d=2.2, D=3.2, L=17|10|
